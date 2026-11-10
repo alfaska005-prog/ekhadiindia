@@ -136,8 +136,8 @@ git commit -m "feat: complete eKhadi India Selenium WebDriver automation framewo
 # 4. Set the default branch to main
 git branch -M main
 
-# 5. Add your remote repository URL (replace with your repo link)
-git remote add origin https://github.com/<your-username>/<your-repo-name>.git
+# 5. Add your remote repository URL
+git remote add origin https://github.com/alfaska005-prog/ekhadiindia.git
 
 # 6. Push to GitHub
 git push -u origin main
