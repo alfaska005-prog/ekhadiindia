@@ -1,0 +1,18 @@
+# Maven target directory
+target/
+
+# IDE directories and files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project/
+.classpath/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# Do NOT ignore the screenshots folder as screenshots are required in the project
+!screenshots/
+!screenshots/*.png
